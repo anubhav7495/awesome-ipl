@@ -1,0 +1,1252 @@
+[
+  {
+    "batsman": "CH Gayle",
+    "fours": 291,
+    "sixes": 247
+  },
+  {
+    "batsman": "SK Raina",
+    "fours": 360,
+    "sixes": 160
+  },
+  {
+    "batsman": "V Kohli",
+    "fours": 365,
+    "sixes": 148
+  },
+  {
+    "batsman": "RG Sharma",
+    "fours": 321,
+    "sixes": 163
+  },
+  {
+    "batsman": "G Gambhir",
+    "fours": 427,
+    "sixes": 50
+  },
+  {
+    "batsman": "DA Warner",
+    "fours": 341,
+    "sixes": 132
+  },
+  {
+    "batsman": "RV Uthappa",
+    "fours": 347,
+    "sixes": 104
+  },
+  {
+    "batsman": "V Sehwag",
+    "fours": 340,
+    "sixes": 105
+  },
+  {
+    "batsman": "AB de Villiers",
+    "fours": 278,
+    "sixes": 139
+  },
+  {
+    "batsman": "S Dhawan",
+    "fours": 351,
+    "sixes": 61
+  },
+  {
+    "batsman": "MS Dhoni",
+    "fours": 240,
+    "sixes": 140
+  },
+  {
+    "batsman": "YK Pathan",
+    "fours": 233,
+    "sixes": 143
+  },
+  {
+    "batsman": "SR Watson",
+    "fours": 253,
+    "sixes": 121
+  },
+  {
+    "batsman": "BB McCullum",
+    "fours": 249,
+    "sixes": 105
+  },
+  {
+    "batsman": "AM Rahane",
+    "fours": 290,
+    "sixes": 51
+  },
+  {
+    "batsman": "AC Gilchrist",
+    "fours": 240,
+    "sixes": 92
+  },
+  {
+    "batsman": "M Vijay",
+    "fours": 241,
+    "sixes": 89
+  },
+  {
+    "batsman": "SR Tendulkar",
+    "fours": 300,
+    "sixes": 29
+  },
+  {
+    "batsman": "DR Smith",
+    "fours": 217,
+    "sixes": 109
+  },
+  {
+    "batsman": "KD Karthik",
+    "fours": 257,
+    "sixes": 60
+  },
+  {
+    "batsman": "SE Marsh",
+    "fours": 238,
+    "sixes": 73
+  },
+  {
+    "batsman": "Yuvraj Singh",
+    "fours": 175,
+    "sixes": 133
+  },
+  {
+    "batsman": "JH Kallis",
+    "fours": 257,
+    "sixes": 44
+  },
+  {
+    "batsman": "R Dravid",
+    "fours": 272,
+    "sixes": 28
+  },
+  {
+    "batsman": "PA Patel",
+    "fours": 250,
+    "sixes": 27
+  },
+  {
+    "batsman": "AT Rayudu",
+    "fours": 199,
+    "sixes": 76
+  },
+  {
+    "batsman": "KA Pollard",
+    "fours": 132,
+    "sixes": 124
+  },
+  {
+    "batsman": "MEK Hussey",
+    "fours": 200,
+    "sixes": 52
+  },
+  {
+    "batsman": "DPMD Jayawardene",
+    "fours": 201,
+    "sixes": 40
+  },
+  {
+    "batsman": "MK Pandey",
+    "fours": 172,
+    "sixes": 53
+  },
+  {
+    "batsman": "KC Sangakkara",
+    "fours": 197,
+    "sixes": 26
+  },
+  {
+    "batsman": "JP Duminy",
+    "fours": 125,
+    "sixes": 78
+  },
+  {
+    "batsman": "NV Ojha",
+    "fours": 120,
+    "sixes": 75
+  },
+  {
+    "batsman": "AJ Finch",
+    "fours": 147,
+    "sixes": 40
+  },
+  {
+    "batsman": "S Badrinath",
+    "fours": 156,
+    "sixes": 28
+  },
+  {
+    "batsman": "SC Ganguly",
+    "fours": 138,
+    "sixes": 41
+  },
+  {
+    "batsman": "DA Miller",
+    "fours": 104,
+    "sixes": 74
+  },
+  {
+    "batsman": "BJ Hodge",
+    "fours": 125,
+    "sixes": 43
+  },
+  {
+    "batsman": "ML Hayden",
+    "fours": 124,
+    "sixes": 44
+  },
+  {
+    "batsman": "RA Jadeja",
+    "fours": 113,
+    "sixes": 53
+  },
+  {
+    "batsman": "TM Dilshan",
+    "fours": 139,
+    "sixes": 24
+  },
+  {
+    "batsman": "WP Saha",
+    "fours": 112,
+    "sixes": 49
+  },
+  {
+    "batsman": "DJ Bravo",
+    "fours": 104,
+    "sixes": 48
+  },
+  {
+    "batsman": "MK Tiwary",
+    "fours": 122,
+    "sixes": 28
+  },
+  {
+    "batsman": "DJ Hussey",
+    "fours": 90,
+    "sixes": 60
+  },
+  {
+    "batsman": "F du Plessis",
+    "fours": 110,
+    "sixes": 38
+  },
+  {
+    "batsman": "SPD Smith",
+    "fours": 112,
+    "sixes": 31
+  },
+  {
+    "batsman": "LMP Simmons",
+    "fours": 100,
+    "sixes": 36
+  },
+  {
+    "batsman": "GJ Maxwell",
+    "fours": 77,
+    "sixes": 56
+  },
+  {
+    "batsman": "KP Pietersen",
+    "fours": 92,
+    "sixes": 40
+  },
+  {
+    "batsman": "IK Pathan",
+    "fours": 94,
+    "sixes": 38
+  },
+  {
+    "batsman": "SS Tiwary",
+    "fours": 84,
+    "sixes": 45
+  },
+  {
+    "batsman": "Mandeep Singh",
+    "fours": 113,
+    "sixes": 14
+  },
+  {
+    "batsman": "ST Jayasuriya",
+    "fours": 85,
+    "sixes": 38
+  },
+  {
+    "batsman": "MS Bisla",
+    "fours": 97,
+    "sixes": 23
+  },
+  {
+    "batsman": "SV Samson",
+    "fours": 80,
+    "sixes": 38
+  },
+  {
+    "batsman": "Harbhajan Singh",
+    "fours": 76,
+    "sixes": 40
+  },
+  {
+    "batsman": "A Symonds",
+    "fours": 75,
+    "sixes": 41
+  },
+  {
+    "batsman": "HH Gibbs",
+    "fours": 84,
+    "sixes": 31
+  },
+  {
+    "batsman": "JA Morkel",
+    "fours": 61,
+    "sixes": 54
+  },
+  {
+    "batsman": "KK Nair",
+    "fours": 95,
+    "sixes": 20
+  },
+  {
+    "batsman": "Y Venugopal Rao",
+    "fours": 77,
+    "sixes": 37
+  },
+  {
+    "batsman": "Q de Kock",
+    "fours": 92,
+    "sixes": 21
+  },
+  {
+    "batsman": "LRPL Taylor",
+    "fours": 68,
+    "sixes": 45
+  },
+  {
+    "batsman": "MA Agarwal",
+    "fours": 80,
+    "sixes": 33
+  },
+  {
+    "batsman": "CL White",
+    "fours": 75,
+    "sixes": 38
+  },
+  {
+    "batsman": "GC Smith",
+    "fours": 95,
+    "sixes": 9
+  },
+  {
+    "batsman": "EJG Morgan",
+    "fours": 70,
+    "sixes": 32
+  },
+  {
+    "batsman": "M Vohra",
+    "fours": 73,
+    "sixes": 26
+  },
+  {
+    "batsman": "AD Russell",
+    "fours": 50,
+    "sixes": 37
+  },
+  {
+    "batsman": "JD Ryder",
+    "fours": 67,
+    "sixes": 19
+  },
+  {
+    "batsman": "KL Rahul",
+    "fours": 61,
+    "sixes": 24
+  },
+  {
+    "batsman": "PC Valthaty",
+    "fours": 63,
+    "sixes": 20
+  },
+  {
+    "batsman": "TL Suman",
+    "fours": 55,
+    "sixes": 26
+  },
+  {
+    "batsman": "MC Henriques",
+    "fours": 58,
+    "sixes": 23
+  },
+  {
+    "batsman": "GJ Bailey",
+    "fours": 60,
+    "sixes": 19
+  },
+  {
+    "batsman": "STR Binny",
+    "fours": 53,
+    "sixes": 26
+  },
+  {
+    "batsman": "AM Nayar",
+    "fours": 57,
+    "sixes": 20
+  },
+  {
+    "batsman": "AD Mathews",
+    "fours": 43,
+    "sixes": 28
+  },
+  {
+    "batsman": "KM Jadhav",
+    "fours": 46,
+    "sixes": 23
+  },
+  {
+    "batsman": "SA Asnodkar",
+    "fours": 59,
+    "sixes": 10
+  },
+  {
+    "batsman": "SS Iyer",
+    "fours": 43,
+    "sixes": 22
+  },
+  {
+    "batsman": "PP Chawla",
+    "fours": 49,
+    "sixes": 15
+  },
+  {
+    "batsman": "SA Yadav",
+    "fours": 45,
+    "sixes": 18
+  },
+  {
+    "batsman": "Shakib Al Hasan",
+    "fours": 46,
+    "sixes": 15
+  },
+  {
+    "batsman": "JR Hopes",
+    "fours": 49,
+    "sixes": 11
+  },
+  {
+    "batsman": "OA Shah",
+    "fours": 35,
+    "sixes": 23
+  },
+  {
+    "batsman": "CA Pujara",
+    "fours": 51,
+    "sixes": 4
+  },
+  {
+    "batsman": "JP Faulkner",
+    "fours": 32,
+    "sixes": 23
+  },
+  {
+    "batsman": "RS Bopara",
+    "fours": 39,
+    "sixes": 16
+  },
+  {
+    "batsman": "M Manhas",
+    "fours": 44,
+    "sixes": 10
+  },
+  {
+    "batsman": "MJ Lumb",
+    "fours": 47,
+    "sixes": 6
+  },
+  {
+    "batsman": "Azhar Mahmood",
+    "fours": 40,
+    "sixes": 13
+  },
+  {
+    "batsman": "CJ Anderson",
+    "fours": 32,
+    "sixes": 21
+  },
+  {
+    "batsman": "S Sohal",
+    "fours": 34,
+    "sixes": 18
+  },
+  {
+    "batsman": "NLTC Perera",
+    "fours": 26,
+    "sixes": 26
+  },
+  {
+    "batsman": "AP Tare",
+    "fours": 38,
+    "sixes": 11
+  },
+  {
+    "batsman": "LR Shukla",
+    "fours": 33,
+    "sixes": 16
+  },
+  {
+    "batsman": "Gurkeerat Singh",
+    "fours": 37,
+    "sixes": 9
+  },
+  {
+    "batsman": "MV Boucher",
+    "fours": 33,
+    "sixes": 12
+  },
+  {
+    "batsman": "DB Ravi Teja",
+    "fours": 36,
+    "sixes": 9
+  },
+  {
+    "batsman": "J Botha",
+    "fours": 39,
+    "sixes": 5
+  },
+  {
+    "batsman": "RN ten Doeschate",
+    "fours": 27,
+    "sixes": 15
+  },
+  {
+    "batsman": "UBT Chand",
+    "fours": 32,
+    "sixes": 9
+  },
+  {
+    "batsman": "AL Menaria",
+    "fours": 24,
+    "sixes": 17
+  },
+  {
+    "batsman": "AR Patel",
+    "fours": 23,
+    "sixes": 17
+  },
+  {
+    "batsman": "LA Pomersbach",
+    "fours": 27,
+    "sixes": 13
+  },
+  {
+    "batsman": "DB Das",
+    "fours": 23,
+    "sixes": 16
+  },
+  {
+    "batsman": "P Kumar",
+    "fours": 22,
+    "sixes": 17
+  },
+  {
+    "batsman": "VVS Laxman",
+    "fours": 34,
+    "sixes": 4
+  },
+  {
+    "batsman": "B Chipli",
+    "fours": 29,
+    "sixes": 7
+  },
+  {
+    "batsman": "R Bhatia",
+    "fours": 24,
+    "sixes": 12
+  },
+  {
+    "batsman": "KH Pandya",
+    "fours": 22,
+    "sixes": 13
+  },
+  {
+    "batsman": "JC Buttler",
+    "fours": 23,
+    "sixes": 11
+  },
+  {
+    "batsman": "SM Katich",
+    "fours": 26,
+    "sixes": 8
+  },
+  {
+    "batsman": "CH Morris",
+    "fours": 18,
+    "sixes": 16
+  },
+  {
+    "batsman": "JEC Franklin",
+    "fours": 25,
+    "sixes": 9
+  },
+  {
+    "batsman": "MD Mishra",
+    "fours": 26,
+    "sixes": 8
+  },
+  {
+    "batsman": "DJG Sammy",
+    "fours": 15,
+    "sixes": 18
+  },
+  {
+    "batsman": "A Ashish Reddy",
+    "fours": 17,
+    "sixes": 15
+  },
+  {
+    "batsman": "Salman Butt",
+    "fours": 30,
+    "sixes": 2
+  },
+  {
+    "batsman": "YV Takawale",
+    "fours": 27,
+    "sixes": 3
+  },
+  {
+    "batsman": "DJ Hooda",
+    "fours": 14,
+    "sixes": 16
+  },
+  {
+    "batsman": "SP Fleming",
+    "fours": 26,
+    "sixes": 3
+  },
+  {
+    "batsman": "M Kaif",
+    "fours": 23,
+    "sixes": 6
+  },
+  {
+    "batsman": "A Mishra",
+    "fours": 26,
+    "sixes": 3
+  },
+  {
+    "batsman": "DT Christian",
+    "fours": 17,
+    "sixes": 12
+  },
+  {
+    "batsman": "R Vinay Kumar",
+    "fours": 20,
+    "sixes": 9
+  },
+  {
+    "batsman": "Y Nagar",
+    "fours": 20,
+    "sixes": 9
+  },
+  {
+    "batsman": "SP Goswami",
+    "fours": 26,
+    "sixes": 2
+  },
+  {
+    "batsman": "R Sathish",
+    "fours": 22,
+    "sixes": 6
+  },
+  {
+    "batsman": "BJ Rohrer",
+    "fours": 22,
+    "sixes": 5
+  },
+  {
+    "batsman": "P Negi",
+    "fours": 17,
+    "sixes": 9
+  },
+  {
+    "batsman": "K Goel",
+    "fours": 17,
+    "sixes": 9
+  },
+  {
+    "batsman": "SN Khan",
+    "fours": 19,
+    "sixes": 6
+  },
+  {
+    "batsman": "DH Yagnik",
+    "fours": 23,
+    "sixes": 2
+  },
+  {
+    "batsman": "AA Jhunjhunwala",
+    "fours": 20,
+    "sixes": 5
+  },
+  {
+    "batsman": "RR Pant",
+    "fours": 19,
+    "sixes": 6
+  },
+  {
+    "batsman": "KV Sharma",
+    "fours": 13,
+    "sixes": 12
+  },
+  {
+    "batsman": "S Vidyut",
+    "fours": 22,
+    "sixes": 3
+  },
+  {
+    "batsman": "CM Gautam",
+    "fours": 19,
+    "sixes": 6
+  },
+  {
+    "batsman": "AC Blizzard",
+    "fours": 22,
+    "sixes": 2
+  },
+  {
+    "batsman": "HM Amla",
+    "fours": 20,
+    "sixes": 4
+  },
+  {
+    "batsman": "R Ashwin",
+    "fours": 22,
+    "sixes": 2
+  },
+  {
+    "batsman": "FY Fazal",
+    "fours": 23,
+    "sixes": 1
+  },
+  {
+    "batsman": "GH Vihari",
+    "fours": 23,
+    "sixes": 1
+  },
+  {
+    "batsman": "MR Marsh",
+    "fours": 9,
+    "sixes": 14
+  },
+  {
+    "batsman": "PD Collingwood",
+    "fours": 9,
+    "sixes": 13
+  },
+  {
+    "batsman": "RE van der Merwe",
+    "fours": 13,
+    "sixes": 8
+  },
+  {
+    "batsman": "MF Maharoof",
+    "fours": 12,
+    "sixes": 9
+  },
+  {
+    "batsman": "HH Pandya",
+    "fours": 13,
+    "sixes": 8
+  },
+  {
+    "batsman": "AS Raut",
+    "fours": 13,
+    "sixes": 7
+  },
+  {
+    "batsman": "SK Warne",
+    "fours": 14,
+    "sixes": 6
+  },
+  {
+    "batsman": "Kamran Akmal",
+    "fours": 12,
+    "sixes": 8
+  },
+  {
+    "batsman": "SM Pollock",
+    "fours": 12,
+    "sixes": 8
+  },
+  {
+    "batsman": "AC Voges",
+    "fours": 16,
+    "sixes": 3
+  },
+  {
+    "batsman": "DW Steyn",
+    "fours": 16,
+    "sixes": 3
+  },
+  {
+    "batsman": "MN van Wyk",
+    "fours": 18,
+    "sixes": 1
+  },
+  {
+    "batsman": "MP Stoinis",
+    "fours": 14,
+    "sixes": 4
+  },
+  {
+    "batsman": "B Kumar",
+    "fours": 15,
+    "sixes": 3
+  },
+  {
+    "batsman": "R Dhawan",
+    "fours": 14,
+    "sixes": 4
+  },
+  {
+    "batsman": "LJ Wright",
+    "fours": 15,
+    "sixes": 3
+  },
+  {
+    "batsman": "AB Agarkar",
+    "fours": 13,
+    "sixes": 5
+  },
+  {
+    "batsman": "S Anirudha",
+    "fours": 11,
+    "sixes": 7
+  },
+  {
+    "batsman": "D Wiese",
+    "fours": 13,
+    "sixes": 4
+  },
+  {
+    "batsman": "KK Cooper",
+    "fours": 9,
+    "sixes": 8
+  },
+  {
+    "batsman": "KS Williamson",
+    "fours": 16,
+    "sixes": 1
+  },
+  {
+    "batsman": "UT Khawaja",
+    "fours": 14,
+    "sixes": 3
+  },
+  {
+    "batsman": "PA Reddy",
+    "fours": 15,
+    "sixes": 2
+  },
+  {
+    "batsman": "W Jaffer",
+    "fours": 14,
+    "sixes": 3
+  },
+  {
+    "batsman": "Bipul Sharma",
+    "fours": 9,
+    "sixes": 8
+  },
+  {
+    "batsman": "DJ Harris",
+    "fours": 11,
+    "sixes": 5
+  },
+  {
+    "batsman": "RJ Quiney",
+    "fours": 13,
+    "sixes": 3
+  },
+  {
+    "batsman": "B Lee",
+    "fours": 8,
+    "sixes": 8
+  },
+  {
+    "batsman": "Misbah-ul-Haq",
+    "fours": 10,
+    "sixes": 6
+  },
+  {
+    "batsman": "N Saini",
+    "fours": 16,
+    "sixes": 0
+  },
+  {
+    "batsman": "NK Patel",
+    "fours": 15,
+    "sixes": 1
+  },
+  {
+    "batsman": "BB Samantray",
+    "fours": 13,
+    "sixes": 2
+  },
+  {
+    "batsman": "M Morkel",
+    "fours": 10,
+    "sixes": 5
+  },
+  {
+    "batsman": "R McLaren",
+    "fours": 14,
+    "sixes": 1
+  },
+  {
+    "batsman": "DJ Jacobs",
+    "fours": 10,
+    "sixes": 4
+  },
+  {
+    "batsman": "N Rana",
+    "fours": 6,
+    "sixes": 8
+  },
+  {
+    "batsman": "Sachin Baby",
+    "fours": 9,
+    "sixes": 5
+  },
+  {
+    "batsman": "CR Brathwaite",
+    "fours": 6,
+    "sixes": 8
+  },
+  {
+    "batsman": "RE Levi",
+    "fours": 10,
+    "sixes": 4
+  },
+  {
+    "batsman": "DL Vettori",
+    "fours": 12,
+    "sixes": 2
+  },
+  {
+    "batsman": "SB Styris",
+    "fours": 11,
+    "sixes": 3
+  },
+  {
+    "batsman": "MS Gony",
+    "fours": 6,
+    "sixes": 8
+  },
+  {
+    "batsman": "MG Johnson",
+    "fours": 7,
+    "sixes": 6
+  },
+  {
+    "batsman": "Shahid Afridi",
+    "fours": 7,
+    "sixes": 6
+  },
+  {
+    "batsman": "AB McDonald",
+    "fours": 9,
+    "sixes": 4
+  },
+  {
+    "batsman": "MN Samuels",
+    "fours": 8,
+    "sixes": 5
+  },
+  {
+    "batsman": "Z Khan",
+    "fours": 11,
+    "sixes": 2
+  },
+  {
+    "batsman": "MJ Clarke",
+    "fours": 12,
+    "sixes": 0
+  },
+  {
+    "batsman": "MA Starc",
+    "fours": 12,
+    "sixes": 0
+  },
+  {
+    "batsman": "MC Juneja",
+    "fours": 11,
+    "sixes": 1
+  },
+  {
+    "batsman": "JDP Oram",
+    "fours": 6,
+    "sixes": 5
+  },
+  {
+    "batsman": "LA Carseldine",
+    "fours": 11,
+    "sixes": 0
+  },
+  {
+    "batsman": "UT Yadav",
+    "fours": 8,
+    "sixes": 3
+  },
+  {
+    "batsman": "TR Birt",
+    "fours": 9,
+    "sixes": 2
+  },
+  {
+    "batsman": "BCJ Cutting",
+    "fours": 4,
+    "sixes": 7
+  },
+  {
+    "batsman": "PR Shah",
+    "fours": 9,
+    "sixes": 2
+  },
+  {
+    "batsman": "SD Chitnis",
+    "fours": 10,
+    "sixes": 1
+  },
+  {
+    "batsman": "CA Lynn",
+    "fours": 6,
+    "sixes": 4
+  },
+  {
+    "batsman": "SL Malinga",
+    "fours": 6,
+    "sixes": 4
+  },
+  {
+    "batsman": "B Akhil",
+    "fours": 5,
+    "sixes": 5
+  },
+  {
+    "batsman": "S Rana",
+    "fours": 9,
+    "sixes": 1
+  },
+  {
+    "batsman": "Iqbal Abdulla",
+    "fours": 9,
+    "sixes": 1
+  },
+  {
+    "batsman": "M Klinger",
+    "fours": 9,
+    "sixes": 0
+  },
+  {
+    "batsman": "Mohammad Hafeez",
+    "fours": 7,
+    "sixes": 2
+  },
+  {
+    "batsman": "AG Paunikar",
+    "fours": 9,
+    "sixes": 0
+  },
+  {
+    "batsman": "RJ Harris",
+    "fours": 6,
+    "sixes": 3
+  },
+  {
+    "batsman": "CJ Ferguson",
+    "fours": 9,
+    "sixes": 0
+  },
+  {
+    "batsman": "RT Ponting",
+    "fours": 7,
+    "sixes": 2
+  },
+  {
+    "batsman": "SW Billings",
+    "fours": 5,
+    "sixes": 4
+  },
+  {
+    "batsman": "AP Majumdar",
+    "fours": 7,
+    "sixes": 2
+  },
+  {
+    "batsman": "P Dogra",
+    "fours": 4,
+    "sixes": 5
+  },
+  {
+    "batsman": "DS Kulkarni",
+    "fours": 6,
+    "sixes": 2
+  },
+  {
+    "batsman": "A Flintoff",
+    "fours": 6,
+    "sixes": 2
+  },
+  {
+    "batsman": "Ankit Sharma",
+    "fours": 5,
+    "sixes": 3
+  },
+  {
+    "batsman": "M Kartik",
+    "fours": 7,
+    "sixes": 1
+  },
+  {
+    "batsman": "R Sharma",
+    "fours": 5,
+    "sixes": 3
+  },
+  {
+    "batsman": "Umar Gul",
+    "fours": 2,
+    "sixes": 5
+  },
+  {
+    "batsman": "DJ Thornely",
+    "fours": 5,
+    "sixes": 2
+  },
+  {
+    "batsman": "Sunny Singh",
+    "fours": 6,
+    "sixes": 1
+  },
+  {
+    "batsman": "AS Yadav",
+    "fours": 5,
+    "sixes": 2
+  },
+  {
+    "batsman": "AUK Pathan",
+    "fours": 5,
+    "sixes": 2
+  },
+  {
+    "batsman": "S Sreesanth",
+    "fours": 7,
+    "sixes": 0
+  },
+  {
+    "batsman": "MM Sharma",
+    "fours": 4,
+    "sixes": 3
+  },
+  {
+    "batsman": "KB Arun Karthik",
+    "fours": 6,
+    "sixes": 1
+  },
+  {
+    "batsman": "RR Sarwan",
+    "fours": 6,
+    "sixes": 1
+  },
+  {
+    "batsman": "L Ronchi",
+    "fours": 6,
+    "sixes": 1
+  },
+  {
+    "batsman": "Anirudh Singh",
+    "fours": 6,
+    "sixes": 1
+  },
+  {
+    "batsman": "A Chopra",
+    "fours": 7,
+    "sixes": 0
+  },
+  {
+    "batsman": "MJ Guptill",
+    "fours": 4,
+    "sixes": 3
+  },
+  {
+    "batsman": "MJ McClenaghan",
+    "fours": 2,
+    "sixes": 5
+  },
+  {
+    "batsman": "BR Dunk",
+    "fours": 7,
+    "sixes": 0
+  },
+  {
+    "batsman": "RR Powar",
+    "fours": 6,
+    "sixes": 1
+  },
+  {
+    "batsman": "J Suchith",
+    "fours": 4,
+    "sixes": 2
+  },
+  {
+    "batsman": "LPC Silva",
+    "fours": 5,
+    "sixes": 1
+  },
+  {
+    "batsman": "JO Holder",
+    "fours": 4,
+    "sixes": 2
+  },
+  {
+    "batsman": "AD Mascarenhas",
+    "fours": 5,
+    "sixes": 1
+  },
+  {
+    "batsman": "S Narwal",
+    "fours": 6,
+    "sixes": 0
+  },
+  {
+    "batsman": "AB Barath",
+    "fours": 5,
+    "sixes": 1
+  },
+  {
+    "batsman": "RR Rossouw",
+    "fours": 3,
+    "sixes": 3
+  },
+  {
+    "batsman": "WD Parnell",
+    "fours": 5,
+    "sixes": 1
+  },
+  {
+    "batsman": "RV Gomez",
+    "fours": 5,
+    "sixes": 1
+  },
+  {
+    "batsman": "R Rampaul",
+    "fours": 3,
+    "sixes": 2
+  },
+  {
+    "batsman": "MM Patel",
+    "fours": 5,
+    "sixes": 0
+  },
+  {
+    "batsman": "J Arunkumar",
+    "fours": 5,
+    "sixes": 0
+  }
+]

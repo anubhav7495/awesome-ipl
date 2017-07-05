@@ -1,0 +1,47 @@
+[
+  {
+    "season": "2008",
+    "batsman": "SE Marsh",
+    "runs": 616
+  },
+  {
+    "season": "2009",
+    "batsman": "ML Hayden",
+    "runs": 572
+  },
+  {
+    "season": "2010",
+    "batsman": "SR Tendulkar",
+    "runs": 618
+  },
+  {
+    "season": "2011",
+    "batsman": "CH Gayle",
+    "runs": 608
+  },
+  {
+    "season": "2012",
+    "batsman": "CH Gayle(1)",
+    "runs": 733
+  },
+  {
+    "season": "2013",
+    "batsman": "MEK Hussey",
+    "runs": 733
+  },
+  {
+    "season": "2014",
+    "batsman": "RV Uthappa",
+    "runs": 660
+  },
+  {
+    "season": "2015",
+    "batsman": "DA Warner",
+    "runs": 562
+  },
+  {
+    "season": "2016",
+    "batsman": "V Kohli",
+    "runs": 973
+  }
+]
