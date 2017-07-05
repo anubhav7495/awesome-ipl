@@ -1,0 +1,80 @@
+[
+  {
+    "team": "Kolkata Knight Riders",
+    "fours": 1783,
+    "sixes": 570,
+    "teamAbbr": "KKR"
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "fours": 1871,
+    "sixes": 850,
+    "teamAbbr": "RCB"
+  },
+  {
+    "team": "Chennai Super Kings",
+    "fours": 1792,
+    "sixes": 740,
+    "teamAbbr": "CSK"
+  },
+  {
+    "team": "Kings XI Punjab",
+    "fours": 1930,
+    "sixes": 674,
+    "teamAbbr": "KXIP"
+  },
+  {
+    "team": "Rajasthan Royals",
+    "fours": 1651,
+    "sixes": 535,
+    "teamAbbr": "RR"
+  },
+  {
+    "team": "Delhi Daredevils",
+    "fours": 1788,
+    "sixes": 596,
+    "teamAbbr": "DD"
+  },
+  {
+    "team": "Mumbai Indians",
+    "fours": 1942,
+    "sixes": 754,
+    "teamAbbr": "MI"
+  },
+  {
+    "team": "Deccan Chargers",
+    "fours": 966,
+    "sixes": 397,
+    "teamAbbr": "DC"
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "fours": 172,
+    "sixes": 51,
+    "teamAbbr": "KTK"
+  },
+  {
+    "team": "Pune Warriors",
+    "fours": 526,
+    "sixes": 195,
+    "teamAbbr": "PW"
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "fours": 788,
+    "sixes": 291,
+    "teamAbbr": "SH"
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "fours": 173,
+    "sixes": 68,
+    "teamAbbr": "RPS"
+  },
+  {
+    "team": "Gujarat Lions",
+    "fours": 243,
+    "sixes": 63,
+    "teamAbbr": "GL"
+  }
+]
