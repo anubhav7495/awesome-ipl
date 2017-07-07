@@ -97,7 +97,7 @@ var webpackConfig = merge(baseWebpackConfig, {
       stripPrefix: 'dist/',
       runtimeCaching: [
         {
-          urlPattern: /^https:\/\/anubhav7495\.github\.io\/testing\/data\//,
+          urlPattern: /^https:\/\/anubhav7495\.github\.io\/awesome-ipl\/data\//,
           handler: 'cacheFirst'
         }
       ]
