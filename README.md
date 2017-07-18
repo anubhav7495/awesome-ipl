@@ -1,5 +1,13 @@
 # Awesome IPL PWA
 
+#### [Link to Application](https://anubhav7495.github.io/awesome-ipl/)
+
+A Dashboard to visualize Indian Premier League data from season 2008-2016.
+
+<p align="center">
+  <img src="main-view.png" width="235" />
+</p>
+
 ## Libraries Used
 
 * Framework: Vue.js 2.0
