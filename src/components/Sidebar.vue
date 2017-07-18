@@ -4,54 +4,53 @@
     <button class="btn back-btn show-md" @click="closeSideBar" >&larr;</button>
     <router-link
       :to="{ path: '/' }"
-      class="sidebar-link"
-      active-class="active"
+      class="sidebar-link"    
       exact
     >
       Home
     </router-link>
-    <router-link :to="{ path: '/finals' }" class="sidebar-link" active-class="active">
+    <router-link :to="{ path: '/finals' }" class="sidebar-link">
       Season Finals
     </router-link>
     <button class="btn collapse-btn" @click="toggle">Top Teams</button>
     <div class="collapse-panel">
-      <router-link :to="{ path: '/team-wins' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/team-wins' }" class="sidebar-link">
         by Wins
       </router-link>
-      <router-link :to="{ path: '/team-boundries' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/team-boundries' }" class="sidebar-link">
         by Boundries
       </router-link>
     </div>
     <button class="btn collapse-btn" @click="toggle">Top Batsmen</button>
     <div class="collapse-panel">
-      <router-link :to="{ path: '/batsmen-total-runs' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/batsmen-total-runs' }" class="sidebar-link">
         by Runs
       </router-link>
-      <router-link :to="{ path: '/batsmen-individual-scores' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/batsmen-individual-scores' }" class="sidebar-link">
         by Scores
       </router-link>
-      <router-link :to="{ path: '/batsmen-boundries' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/batsmen-boundries' }" class="sidebar-link">
         by Boundries
       </router-link>
     </div>
     <button class="btn collapse-btn" @click="toggle">Top Bowlers</button>
     <div class="collapse-panel">
-      <router-link :to="{ path: '/bowler-total-wickets' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/bowler-total-wickets' }" class="sidebar-link">
         by Wickets
       </router-link>
-      <router-link :to="{ path: '/bowler-economy' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/bowler-economy' }" class="sidebar-link">
         by Economy
       </router-link>
     </div>
     <button class="btn collapse-btn" @click="toggle">Player Awards</button>
     <div class="collapse-panel">
-      <router-link :to="{ path: '/awards-motm' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/awards-motm' }" class="sidebar-link">
         Man of Match
       </router-link>
-      <router-link :to="{ path: '/awards-orange-caps' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/awards-orange-caps' }" class="sidebar-link">
         Orange Caps
       </router-link>
-      <router-link :to="{ path: '/awards-purple-caps' }" class="sidebar-link" active-class="active">
+      <router-link :to="{ path: '/awards-purple-caps' }" class="sidebar-link">
         Purple Caps
       </router-link>
     </div>

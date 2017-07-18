@@ -1,10 +1,6 @@
 <template>
   <div class="row">
-    <bar-chart
-      :data="data"
-      :domain="domain"
-      :margin="margin"
-    />
+    <bar-chart :data="data" :domain="domain" :margin="margin" />
     <div class="col col-6">
       <h3>Man of the Match Awards</h3>
       <p>

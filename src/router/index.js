@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+
 import Home from '@/components/Home';
 import TeamsByWins from '@/components/pages/TeamsByWins';
 import TeamsByBoundries from '@/components/pages/TeamsByBoundries';
@@ -16,6 +17,8 @@ import SeasonFinals from '@/components/pages/SeasonFinals';
 Vue.use(Router);
 
 export default new Router({
+  scrollBehavior: () => ({ y: 0 }),
+  linkActiveClass: 'active',
   routes: [
     {
       path: '/',
